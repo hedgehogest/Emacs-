@@ -1,5 +1,8 @@
 ;; Emacs init script
 
+;; start server
+(server-start) 
+
 ;; ====================
 ;; insert date and time
 
